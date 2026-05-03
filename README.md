@@ -1,8 +1,63 @@
-# 👓 About Me:
-⌨️ I'm a software developer<br>🔭 I currently work in a technology company<br>🛰️Technology enthusiast<br>☕I love coffee<br><br> 
+# Hi, I'm Raúl Salinas 👋
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raulsalinas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsalinas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**AI Engineer** · Building and documenting AI agents with Python and LangChain
+
+> *Construyo y documento agentes de IA — una serie pública, un post por semana.*
+
+---
+
+## 🤖 What I'm building
+
+Currently focused on the **application layer of AI** — taking existing LLMs and building systems that reason, remember and act.
+
+- 🔗 **LangChain v1** — chains, memory, tools and prompts
+- 🧠 **LangGraph** — agents as stateful graphs with conditional edges
+- 📚 **RAG Systems** — retrieval-augmented generation with real data
+- 📡 **LangSmith** — observability and tracing in production
+
+---
+
+## 💻 Tech Stack
+
+**AI & Agents**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Backend & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Raúl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulsalinas&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raulsalinas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 📱 Serie: De Python a Agentes de IA
+
+Documento todo el camino en Instagram — conceptos, código real, errores y tips que pocos conocen.
+
+**Temas de la serie:**
+`LangChain` · `LangGraph` · `RAG` · `Agents` · `LangSmith` · `Producción`
+
+[![Instagram](https://img.shields.io/badge/@rauscode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rauscode)
+[![Website](https://img.shields.io/badge/raulsalinas.dev-1a2744?style=for-the-badge&logo=safari&logoColor=white)](https://raulsalinas.dev)
+
+---
+
+*Based in Perú 🇵🇪 · Building in public · 1 post/week*
