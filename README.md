@@ -1,8 +1,6 @@
 # Hi, I'm Raúl Salinas 👋
 
-**AI Engineer** · Building and documenting AI agents with Python and LangChain
-
-> *Construyo y documento agentes de IA — una serie pública, un post por semana.*
+**Software & AI Engineer** · Building AI agents with Python and LangChain
 
 ---
 
@@ -48,16 +46,14 @@ Currently focused on the **application layer of AI** — taking existing LLMs an
 
 ---
 
-## 📱 Serie: De Python a Agentes de IA
+## 📱 Comparto lo que construyo
 
-Documento todo el camino en Instagram — conceptos, código real, errores y tips que pocos conocen.
-
-**Temas de la serie:**
-`LangChain` · `LangGraph` · `RAG` · `Agents` · `LangSmith` · `Producción`
+De vez en cuando publico en Instagram lo que estoy explorando —
+agentes, RAG, código real y cosas que aprendo en el camino.
 
 [![Instagram](https://img.shields.io/badge/@rauscode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rauscode)
 [![Website](https://img.shields.io/badge/raulsalinas.dev-1a2744?style=for-the-badge&logo=safari&logoColor=white)](https://raulsalinas.dev)
 
 ---
 
-*Based in Perú 🇵🇪 · Building in public · 1 post/week*
+*Based in Perú 🇵🇪*
